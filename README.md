@@ -1,3 +1,3 @@
 # bht-github_grundlagen
 
-Hier wird pull ausgeführt.
+Update and pull
